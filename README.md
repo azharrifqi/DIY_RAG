@@ -55,6 +55,8 @@ The system is built to seamlessly blend retrieval and generation for an optimal 
 
 ## 4. How to Run
 
-`pip install -r requirements. txt`
+- Install all packages or libraries needed
+`pip install -r requirements.txt`
 
+- Run code
 `streamlit run demo_1.py`
