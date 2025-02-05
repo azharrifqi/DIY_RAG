@@ -53,4 +53,8 @@ The system is built to seamlessly blend retrieval and generation for an optimal 
 
 ---
 
-Feel free to modify or expand this documentation as your project evolves. Enjoy building your DIY RAG solution!
+## 4. How to Run
+
+`pip install -r requirements. txt`
+
+`streamlit run demo_1.py`
